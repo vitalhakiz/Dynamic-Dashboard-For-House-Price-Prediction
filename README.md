@@ -1,0 +1,2 @@
+# Dynamic-Dashboard-For-House-Price-Prediction
+This is a dynamic dashboard that turn ML model(House Price Prediction) from a complicated abstraction to a concrete tool that anyone can access. One of the most important parts of data science projects is creating products that people can use to make their work or lives easier. This dashboard is able and easier to help anyone who wishes to see the predictions of house prices in a given location using the given attributes 
